@@ -8,6 +8,7 @@ Dane wykorzystane w projekcie zostały pozyskane z oficjalnej strony departament
 
 ## Przetwarzanie danych
 Do przetwarzania danych wykorzystano język Python i narzędzie Jupyter Notebook. Dane zostały wstępnie przetworzone poprzez usunięcie niepotrzebnych kolumn i wierszy, przetworzenie godzin przęstepstw na wygodniejszy format jak i zmiana kodów na nazwy etniczne ofiar.
+Proces ten krok po kroku można zobaczyć w pliku LA Crime.ipynb
 
 ## Analiza danych
 W ramach analizy danych przeprowadzono kilka wizualizacji i raportów w narzędziu Power BI.
