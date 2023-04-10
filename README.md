@@ -12,6 +12,9 @@ Do przetwarzania danych wykorzystano język Python i narzędzie Jupyter Notebook
 W ramach analizy danych przeprowadzono kilka wizualizacji i raportów w narzędziu Power BI.
 
 ## Dashboard 1
+
+![image](https://user-images.githubusercontent.com/130370888/230990388-c0bd6b92-14ef-4456-80c6-6d6c4a352d28.png)
+
 Na pierwszym dashboardzie znajdują się raporty dotyczące przestępstw według dzielnic Los Angeles oraz wykresy dotyczące rasy i wieku ofiar.
 
 ### Slicer z dzielnicami Los Angeles
@@ -30,6 +33,9 @@ Na wykresie słupkowym przedstawiony jest procentowy udział wieku i płci ofiar
 Na wykresie słupkowym przedstawiono top 10 najczęściej popełnianych typów przestępstw w Los Angeles.
 
 ## Dashboard 2
+
+![image](https://user-images.githubusercontent.com/130370888/230990476-b2da7bc9-e2f5-4ea1-8c96-35fc8ae129a9.png)
+
 Na drugim dashboardzie znajdują się raporty dotyczące godzin i dni tygodnia popełnienia przestępstw, a także miejsca zbrodni
 Podział przestępstw na godziny i dni tygodnia
 Na drugim dashboardzie znajdują się raporty dotyczące godzin i dni tygodnia, w których przestępstwa są popełniane.
