@@ -15,7 +15,7 @@ W ramach analizy danych przeprowadzono kilka wizualizacji i raportów w narzędz
 
 ![image](https://user-images.githubusercontent.com/130370888/230990388-c0bd6b92-14ef-4456-80c6-6d6c4a352d28.png)
 
-Dashboard Los Angeles Crime Raport zawiera raporty i wizualizacje związane z przestępczością i ofiarami przestępstw w różnych dzielnicach Los Angeles. Na dashboardzie znajduje się slicer, który pozwala użytkownikowi wybrać interesującą go dzielnicę i zobaczyć, jakie najcześciej przestępstwa są tam popełniane. Zobaczy też heatmape przęstepstw rase ofiar oraz dystrubucje wiekowa ofiar z uwzglednieniem płci.
+Dashboard Los Angeles Crime Raport zawiera raporty i wizualizacje dotyczące przestępczości oraz ofiar przestępstw w różnych dzielnicach Los Angeles. Na tym dashboardzie znajduje się slicer, który umożliwia użytkownikowi wybór interesującej dzielnicy i pozwala zobaczyć, jakie przestępstwa są tam najczęściej popełniane. Dodatkowo, na dashboardzie można znaleźć heatmapę przestępstw, wykres pączkowy przedstawiający rasę ofiar oraz wykres na którym użytkownik może zobaczyć dystrybucję wiekową w podziale na płeć ofiary
 
 ### LA Crime Rates by Weekday and Hour
 
