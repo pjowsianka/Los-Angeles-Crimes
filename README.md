@@ -11,13 +11,13 @@ Do przetwarzania danych wykorzystano język Python i narzędzie Jupyter Notebook
 ## Analiza danych
 W ramach analizy danych przeprowadzono kilka wizualizacji i raportów w narzędziu Power BI.
 
-### Dashboard Los Angeles Crime Raport
+### Los Angeles Crime Raport
 
 ![image](https://user-images.githubusercontent.com/130370888/230990388-c0bd6b92-14ef-4456-80c6-6d6c4a352d28.png)
 
 Dashboard Los Angeles Crime Raport zawiera raporty i wizualizacje związane z przestępczością i ofiarami przestępstw w różnych dzielnicach Los Angeles. Na dashboardzie znajduje się slicer, który pozwala użytkownikowi wybrać interesującą go dzielnicę i zobaczyć, jakie najcześciej przestępstwa są tam popełniane. Zobaczy też heatmape przęstepstw rase ofiar oraz dystrubucje wiekowa ofiar z uwzglednieniem płci.
 
-### Dashboard LA Crime Rates by Weekday and Hour
+### LA Crime Rates by Weekday and Hour
 
 ![image](https://user-images.githubusercontent.com/130370888/230990476-b2da7bc9-e2f5-4ea1-8c96-35fc8ae129a9.png)
 
