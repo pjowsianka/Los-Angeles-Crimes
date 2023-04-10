@@ -1,4 +1,4 @@
-###Case Study: Analiza przestępstw w Los Angeles
+#Case Study: Analiza przestępstw w Los Angeles
 ##Opis problemu
 Założeniem projektu było stworzenie analizy danych dotyczących przestępstw popełnionych w Los Angeles. Celem projektu było uzyskanie wiedzy na temat najczęściej popełnianych przestępstw, ich typów, a także danych dotyczących ofiar i sprawców.
 
