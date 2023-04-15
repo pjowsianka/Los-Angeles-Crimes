@@ -6,7 +6,7 @@ The aim of the project was to create reports that would help in analyzing data r
 ## Data
 The data used in the project was obtained from the official website of the Los Angeles Police Department. It contains information about crimes committed between 2019 and 2022. The data includes information about the types of crimes, their dates and locations, as well as the race, gender, and age of the victims, and information about arrests and suspects.
 
-## Przetwarzanie danych
+## Data Processing
 Python language and Jupyter Notebook tool were used for data processing. The data was pre-processed by removing unnecessary columns and rows, processing crime times into a more convenient format, and changing codes to ethnic names of victims.
 
 #### This process can be seen step by step in the LA Crime.ipynb file.
@@ -25,7 +25,6 @@ The "Los Angeles Crime Report" dashboard contains reports and visualizations on 
 ![image](https://user-images.githubusercontent.com/130370888/230990476-b2da7bc9-e2f5-4ea1-8c96-35fc8ae129a9.png)
 
 The "LA Crime Rates by Weekday and Hour" dashboard presents reports and visualizations related to the time of day and locations of crimes in Los Angeles. This panel includes reports on the hours and days of the week when crimes are most commonly committed. Additionally, this dashboard includes a table of crime locations such as streets or single-family homes, along with the number of cases and the percentage breakdown by gender of the victims.
-
 
 
 ## Summary
