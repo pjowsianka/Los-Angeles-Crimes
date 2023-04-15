@@ -1,32 +1,34 @@
-# Analiza przestępstw w Los Angeles
+# Analysis of Crime in Los Angeles
 
-## Opis problemu
-Założeniem projektu było stworzenie raportów pomocnych w analizie danych dotyczących przestępstw popełnionych w Los Angeles. Celem projektu było uzyskanie wiedzy na temat najczęściej popełnianych przestępstw, ich typów, a także danych dotyczących ofiar i sprawców.
+## Problem Description
+The aim of the project was to create reports that would help in analyzing data related to crimes committed in Los Angeles. The goal of the project was to gain knowledge about the most common types of crimes, their characteristics, as well as data on victims and perpetrators.
 
-## Dane
-Dane wykorzystane w projekcie zostały pozyskane z oficjalnej strony departamentu policji w Los Angeles. Zawierają one informacje o przestępstwach popełnionych w latach 2019-2022. Dane dotyczą typów przestępstw, ich daty i miejsca popełnienia, jak również rasy, płci i wieku ofiar oraz informacji na temat aresztowań i podejrzanych.
+## Data
+The data used in the project was obtained from the official website of the Los Angeles Police Department. It contains information about crimes committed between 2019 and 2022. The data includes information about the types of crimes, their dates and locations, as well as the race, gender, and age of the victims, and information about arrests and suspects.
 
 ## Przetwarzanie danych
-Do przetwarzania danych wykorzystano język Python i narzędzie Jupyter Notebook. Dane zostały wstępnie przetworzone poprzez usunięcie niepotrzebnych kolumn i wierszy, przetworzenie godzin przęstepstw na wygodniejszy format jak i zmiana kodów na nazwy etniczne ofiar.
-#### Proces ten krok po kroku można zobaczyć w pliku LA Crime.ipynb
+Python language and Jupyter Notebook tool were used for data processing. The data was pre-processed by removing unnecessary columns and rows, processing crime times into a more convenient format, and changing codes to ethnic names of victims.
 
-## Analiza danych
-W ramach analizy danych przeprowadzono kilka wizualizacji i raportów w narzędziu Power BI.
+#### This process can be seen step by step in the LA Crime.ipynb file.
+
+## Data Analysis
+Several visualizations and reports were conducted in the Power BI tool as part of the data analysis.
 
 ### Los Angeles Crime Raport
 
 ![image](https://user-images.githubusercontent.com/130370888/230990388-c0bd6b92-14ef-4456-80c6-6d6c4a352d28.png)
 
-Dashboard "Los Angeles Crime Raport" zawiera raporty i wizualizacje dotyczące przestępczości oraz ofiar przestępstw w różnych dzielnicach Los Angeles. Na tym dashboardzie znajduje się slicer, który umożliwia użytkownikowi wybór interesującej dzielnicy i pozwala zobaczyć, jakie przestępstwa są tam najczęściej popełniane. Dodatkowo, na dashboardzie można znaleźć heatmapę przestępstw, wykres pączkowy przedstawiający rasę ofiar oraz wykres na którym użytkownik może zobaczyć dystrybucję wiekową w podziale na płeć ofiary
+The "Los Angeles Crime Report" dashboard contains reports and visualizations on crime and crime victims in different districts of Los Angeles. This dashboard includes a slicer that allows the user to select the district of interest and see which crimes are most commonly committed there. Additionally, the dashboard includes a crime heatmap, a pie chart showing the race of the victims, and a chart displaying the age distribution by gender of the victims.
 
 ### LA Crime Rates by Weekday and Hour
 
 ![image](https://user-images.githubusercontent.com/130370888/230990476-b2da7bc9-e2f5-4ea1-8c96-35fc8ae129a9.png)
 
-Dashboard "LA Crime Rates by Weekday and Hour" przedstawia raporty i wizualizacje związane z czasem popełnienia przestępstw i miejscami zbrodni w Los Angeles. Na tym panelu znajdują się raporty dotyczące godzin i dni tygodnia, w których przestępstwa są najczęściej popełniane. Ponadto na tym dashboardzie można znaleźć tabelę z miejscami popełnienia przestępstw, takimi jak ulice czy domy jednorodzinne, wraz z liczbą przypadków i procentowym podziałem na płeć ofiar.
+The "LA Crime Rates by Weekday and Hour" dashboard presents reports and visualizations related to the time of day and locations of crimes in Los Angeles. This panel includes reports on the hours and days of the week when crimes are most commonly committed. Additionally, this dashboard includes a table of crime locations such as streets or single-family homes, along with the number of cases and the percentage breakdown by gender of the victims.
 
 
 
-## Podsumowanie
-Projekt analizy danych dotyczących przestępstw w Los Angeles pozwolił na uzyskanie wiedzy na temat najczęściej popełnianych przestępstw, godzin i dni tygodnia popełnienia przestępstw oraz miejsc popełnienia przestępstw. Wyniki analizy mogą być wykorzystane do podejmowania decyzji w zakresie zapobiegania przestępczości czy planowania działań policyjnych.
+## Summary
+
+The project of analyzing crime data in Los Angeles allowed us to gain knowledge about the most common types of crimes, the times and days of the week when crimes are most commonly committed, and the locations of crime. The results of the analysis can be used to make decisions regarding crime prevention or police action planning.
 
