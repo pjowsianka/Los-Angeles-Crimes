@@ -1,5 +1,5 @@
 # Analysis of Crime in Los Angeles
-
+[See Dashboards Online](https://www.novypro.com/project/analysis-of-crime-in-los-angeles)
 ## Problem Description
 The aim of the project was to create reports that would help in analyzing data related to crimes committed in Los Angeles. The goal of the project was to gain knowledge about the most common types of crimes, their characteristics, as well as data on victims and perpetrators.
 
